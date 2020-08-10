@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587458901 source:/home/nikola/Desktop/games/flappybird/main.cpp
+	<iostream>
+	<unistd.h>
+	<sys/ioctl.h>
+	<termios.h>
+	<stdlib.h>
+	<thread>
+	<chrono>
+
